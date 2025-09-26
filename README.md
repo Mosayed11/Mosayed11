@@ -3,16 +3,24 @@
 🚀 **Backend Developer | Cloud & AI Enthusiast**  
 
 [![GitHub followers](https://img.shields.io/github/followers/mohamedsayed?style=for-the-badge)](https://github.com/mohamedsayed)
-[![Linkedin: Mohamed Sayed](https://img.shields.io/badge/-Mohamed%20Sayed-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedsayed/)](https://www.linkedin.com/in/mohamedsayed/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=for-the-badge&logo=vercel&logoColor=white&link=https://mohamedsayed.dev)](https://mohamedsayed.dev)
+[![Linkedin: Mohamed Sayed](https://img.shields.io/badge/-Mohamed%20Sayed-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-s-ahmed-14841b369)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedsayed.dev)
 
 ---
 
 ## 💡 About Me  
 - 💻 Backend Developer with focus on **Node.js, Python, and Databases**.  
-- ☁️ Interested in **Cloud Computing, APIs, and AI Integration**.  
+- ☁️ Passionate about **Cloud Computing, APIs, and AI Integration**.  
 - 📚 Always learning & improving my skills in **system design and scalability**.  
 - 🤝 Open to collaboration on **open-source and backend projects**.  
+
+---
+
+## 💼 Portfolio
+
+- 🔹 [E-Commerce API](https://github.com/mohamedsayed/ecommerce-api): RESTful API with Node.js, MongoDB, JWT Auth, and CRUD operations.
+- 🔹 [AI Chatbot](https://github.com/mohamedsayed/ai-chatbot): Python chatbot integrated with OpenAI's API, deployed on AWS Lambda.
+- 🔹 [DevOps CI/CD](https://github.com/mohamedsayed/devops-cicd): Dockerized backend with GitHub Actions & AWS EC2 deployment.
 
 ---
 
@@ -46,19 +54,12 @@
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamedsayed/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsayed@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=vercel)](https://mohamedsayed.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-s-ahmed-14841b369)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mu_zzaa)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muzasico@gmail.com)  
+📞 **Phone:** 01020087229  
+🌍 **Portfolio:** [mohamedsayed.dev](https://mohamedsayed.dev)
 
 ---
-⭐️ From [Mohamed Sayed](https://github.com/mohamedsayed)  
 
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+⭐️ From [Mohamed Sayed](https://github.com/mohamedsayed)  
