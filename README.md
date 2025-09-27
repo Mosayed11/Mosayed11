@@ -16,13 +16,8 @@
 
 ---
 
-## 💼 Portfolio
 
-- 🔹 [E-Commerce API](https://github.com/mohamedsayed/ecommerce-api): RESTful API with Node.js, MongoDB, JWT Auth, and CRUD operations.
-- 🔹 [AI Chatbot](https://github.com/mohamedsayed/ai-chatbot): Python chatbot integrated with OpenAI's API, deployed on AWS Lambda.
-- 🔹 [DevOps CI/CD](https://github.com/mohamedsayed/devops-cicd): Dockerized backend with GitHub Actions & AWS EC2 deployment.
 
----
 
 ## 🔧 Tech Stack  
 
@@ -53,7 +48,7 @@
 ---
 
 ## 🌐 Connect With Me  
-- 🌍 Portfolio: [mohamedsayed.dev](https://mohamedsayed.dev)  
+
 - 💼 LinkedIn: [Mohamed Sayed](https://www.linkedin.com/in/mohamed-s-ahmed-14841b369)  
 - 🐙 GitHub: [mohamedsayed](https://github.com/mohamedsayed)  
 
@@ -61,7 +56,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mu_zzaa)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muzasico@gmail.com)  
 📞 **Phone:** 01020087229  
-🌍 **Portfolio:** [mohamedsayed.dev](https://mohamedsayed.dev)
 
 ---
 
