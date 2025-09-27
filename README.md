@@ -53,6 +53,9 @@
 ---
 
 ## 🌐 Connect With Me  
+- 🌍 Portfolio: [mohamedsayed.dev](https://mohamedsayed.dev)  
+- 💼 LinkedIn: [Mohamed Sayed](https://www.linkedin.com/in/mohamed-s-ahmed-14841b369)  
+- 🐙 GitHub: [mohamedsayed](https://github.com/mohamedsayed)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-s-ahmed-14841b369)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mu_zzaa)  
